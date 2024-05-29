@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend developer<br> - I’m currently learning Java and Spring Boot<br> - Know about my experiences : <https://www.linkedin.com/in/thisluis/></p>
+<p align="left">- Backend developer<br> - I’m currently learning Java and Spring Boot<br> 
 
 ###
 
